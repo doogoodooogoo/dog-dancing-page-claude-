@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" width="200" height="260">
+  <!-- 꼬리 -->
+  <g class="tail">
+    <ellipse cx="158" cy="175" rx="12" ry="6" fill="#c8914a" transform="rotate(-30 158 175)"/>
+    <ellipse cx="170" cy="163" rx="10" ry="5" fill="#c8914a" transform="rotate(-50 170 163)"/>
+    <ellipse cx="178" cy="150" rx="8" ry="5" fill="#d4a05a" transform="rotate(-65 178 150)"/>
+  </g>
+
+  <!-- 몸통 -->
+  <ellipse cx="100" cy="175" rx="52" ry="45" fill="#e8b86d"/>
+
+  <!-- 배 (밝은 부분) -->
+  <ellipse cx="100" cy="185" rx="30" ry="28" fill="#f5d4a0"/>
+
+  <!-- 앞다리 왼쪽 -->
+  <rect x="62" y="205" width="18" height="38" rx="9" fill="#e8b86d"/>
+  <ellipse cx="71" cy="244" rx="11" ry="7" fill="#c8914a"/>
+
+  <!-- 앞다리 오른쪽 -->
+  <rect x="120" y="205" width="18" height="38" rx="9" fill="#e8b86d"/>
+  <ellipse cx="129" cy="244" rx="11" ry="7" fill="#c8914a"/>
+
+  <!-- 목 -->
+  <rect x="82" y="118" width="36" height="30" rx="10" fill="#e8b86d"/>
+
+  <!-- 머리 -->
+  <ellipse cx="100" cy="105" rx="48" ry="44" fill="#e8b86d"/>
+
+  <!-- 귀 왼쪽 (늘어진 귀) -->
+  <ellipse cx="62" cy="90" rx="18" ry="30" fill="#c8914a" transform="rotate(-15 62 90)"/>
+  <ellipse cx="62" cy="90" rx="12" ry="22" fill="#d4825a" transform="rotate(-15 62 90)"/>
+
+  <!-- 귀 오른쪽 (늘어진 귀) -->
+  <ellipse cx="138" cy="90" rx="18" ry="30" fill="#c8914a" transform="rotate(15 138 90)"/>
+  <ellipse cx="138" cy="90" rx="12" ry="22" fill="#d4825a" transform="rotate(15 138 90)"/>
+
+  <!-- 눈 왼쪽 -->
+  <ellipse cx="82" cy="98" rx="9" ry="10" fill="#fff"/>
+  <ellipse cx="84" cy="99" rx="6" ry="7" fill="#3d2b1f"/>
+  <ellipse cx="86" cy="97" rx="2" ry="2" fill="#fff"/>
+
+  <!-- 눈 오른쪽 -->
+  <ellipse cx="118" cy="98" rx="9" ry="10" fill="#fff"/>
+  <ellipse cx="120" cy="99" rx="6" ry="7" fill="#3d2b1f"/>
+  <ellipse cx="122" cy="97" rx="2" ry="2" fill="#fff"/>
+
+  <!-- 코 -->
+  <ellipse cx="100" cy="115" rx="10" ry="7" fill="#3d2b1f"/>
+  <ellipse cx="97" cy="113" rx="3" ry="2" fill="#5a4035" opacity="0.5"/>
+
+  <!-- 입 -->
+  <path d="M 88 122 Q 100 132 112 122" stroke="#3d2b1f" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- 혀 -->
+  <ellipse cx="100" cy="131" rx="9" ry="7" fill="#ff6b8a"/>
+  <line x1="100" y1="124" x2="100" y2="138" stroke="#e05070" stroke-width="1.5"/>
+
+  <!-- 볼 (홍조) -->
+  <ellipse cx="72" cy="112" rx="10" ry="7" fill="#ffb5c0" opacity="0.6"/>
+  <ellipse cx="128" cy="112" rx="10" ry="7" fill="#ffb5c0" opacity="0.6"/>
+
+  <!-- 머리 무늬 -->
+  <ellipse cx="100" cy="75" rx="15" ry="12" fill="#c8914a" opacity="0.7"/>
+</svg>
